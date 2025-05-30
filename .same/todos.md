@@ -1,14 +1,15 @@
 # Córdoba Permit Viewer - Tasks
 
 ## Tasks
-- [ ] Set up GitHub repository (waiting for user to connect GitHub)
 - [ ] Test responsiveness
-- [ ] Deploy to GitHub
+- [ ] Deploy to hosting platform (Netlify)
 
 ## In Progress
 - [ ] Fine-tune styling to perfectly match original
 
 ## Completed
+- [x] Set up GitHub repository
+- [x] Push code to GitHub
 - [x] Create Next.js project with TypeScript and Tailwind
 - [x] Install dependencies
 - [x] Start development server
