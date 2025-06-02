@@ -46,10 +46,10 @@ export default function Home() {
               </div>
               <ul className="divide-y">
                 <li className="px-4 py-3">
-                  <strong>Razón Social:</strong> SANCHEZ RIERA SOCIEDAD DE RESPONSABILIDAD LIMITADA
+                  <strong>Razón Social:</strong> ADVAN SOCIEDAD ANONIMA
                 </li>
                 <li className="px-4 py-3">
-                  <strong>Cuit:</strong> 33711362849
+                  <strong>Cuit:</strong> 30714362319
                 </li>
                 <li className="px-4 py-3">
                   <strong>Tipo:</strong> 2 Intermedio
@@ -94,10 +94,10 @@ export default function Home() {
                   <strong>Nro. Catastral:</strong> 062403304200000
                 </li>
                 <li className="px-4 py-3">
-                  <strong>Calle:</strong> MTRO VIDAL
+                  <strong>Calle:</strong> OCTAVIO PINTO
                 </li>
                 <li className="px-4 py-3">
-                  <strong>Número:</strong> 554
+                  <strong>Número:</strong> 3191
                 </li>
                 <li className="px-4 py-3">
                   <strong>Piso:</strong> -
