@@ -33,7 +33,7 @@ export default function Home() {
           {/* Card Header */}
           <div className="border-b px-6 py-4">
             <h1 className="text-xl font-medium text-gray-800">
-              Detalles del trámite Nº 183623
+              Detalles del trámite Nº 183777
             </h1>
           </div>
 
